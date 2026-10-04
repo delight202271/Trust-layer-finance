@@ -1,0 +1,36 @@
+backend/
+├── src/
+│   ├── config/
+│   ├── common/
+│   ├── database/
+│   ├── middleware/
+│   ├── modules/
+│   ├── app.ts
+│   └── server.ts
+│
+├── test/
+│
+├── .env
+├── .env.example
+├── .gitignore
+├── package.json
+└── tsconfig.json
+
+
+        1. Create project
+2. Initialize TypeScript
+3. Install Express
+4. Configure MongoDB + Mongoose
+5. Environment variables
+6. Project folder structure
+7. Express application
+8. Error handling
+9. Security middleware
+10. CORS
+11. Request IDs
+12. Pino logging
+13. Rate limiting
+14. Health endpoint
+15. Swagger/OpenAPI
+16. Testing setup
+17. Git setup
